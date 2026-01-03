@@ -1,0 +1,14 @@
+[
+    {
+        "Loai": "vàng",
+        "SoLuong": 2,
+        "DonGia": 5600000,
+        "ThanhTien": 11200000
+    },
+    {
+        "Loai": "tiền",
+        "SoLuong": 3,
+        "DonGia": 1000000,
+        "ThanhTien": 3000000
+    }
+]

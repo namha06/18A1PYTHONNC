@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachSinhVien>
+  <SinhVien>
+    <MaSV>SV001</MaSV>
+    <HoTen>Nguyễn Văn A</HoTen>
+    <NamSinh>2001</NamSinh>
+    <Lop>CNTT1</Lop>
+    <GioiTinh>Nam</GioiTinh>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV002</MaSV>
+    <HoTen>Trần Thị B</HoTen>
+    <NamSinh>2002</NamSinh>
+    <Lop>CNTT2</Lop>
+    <GioiTinh>Nữ</GioiTinh>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV003</MaSV>
+    <HoTen>Lê Văn C</HoTen>
+    <NamSinh>2000</NamSinh>
+    <Lop>KTPM1</Lop>
+    <GioiTinh>Nam</GioiTinh>
+  </SinhVien>
+</DanhSachSinhVien>

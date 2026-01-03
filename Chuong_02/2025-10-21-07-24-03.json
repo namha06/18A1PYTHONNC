@@ -1,0 +1,32 @@
+{
+    "giao_dich_tien": [
+        {
+            "loai": "thu",
+            "so_tien": 500000,
+            "mo_ta": "Bán hàng",
+            "thoi_gian": "2025-10-21 07:24:03"
+        },
+        {
+            "loai": "chi",
+            "so_tien": 200000,
+            "mo_ta": "Mua văn phòng phẩm",
+            "thoi_gian": "2025-10-21 07:24:03"
+        }
+    ],
+    "giao_dich_vang": [
+        {
+            "loai": "mua",
+            "so_luong": 2,
+            "don_gia": 7600000,
+            "mo_ta": "Mua vàng SJC",
+            "thoi_gian": "2025-10-21 07:24:03"
+        },
+        {
+            "loai": "ban",
+            "so_luong": 1,
+            "don_gia": 7700000,
+            "mo_ta": "Bán vàng PNJ",
+            "thoi_gian": "2025-10-21 07:24:03"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "TenCongTy": "Công ty TNHH Đất Việt",
+    "DiaChi": "abc Giải Phóng - Hà Nội",
+    "DonVi": [
+        {
+            "TenDonVi": "Đơn vị A1",
+            "SoNhanVien": 25
+        },
+        {
+            "TenDonVi": "Đơn vị A2",
+            "SoNhanVien": 15
+        },
+        {
+            "TenDonVi": "Đơn vị A3",
+            "SoNhanVien": 10
+        },
+        {
+            "TenDonVi": "Đơn vị A4",
+            "SoNhanVien": 20
+        },
+        {
+            "TenDonVi": "Đơn vị A5",
+            "SoNhanVien": 30
+        }
+    ]
+}
